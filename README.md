@@ -74,20 +74,6 @@ Correct answer
 Your final score: 4
 ```
 
-## 📸 Screenshot
-
-Add a screenshot of the running application as:
-
-```text
-screenshots/quiz-demo.png
-```
-
-Then add this to the README:
-
-```markdown
-![Quiz Game Demo](screenshots/quiz-demo.png)
-```
-
 ## 🧩 Program Flow
 
 ```text
